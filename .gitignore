@@ -24,3 +24,9 @@ hs_err_pid*
 replay_pid*
 .obsidian/workspace.json
 .trash
+# 忽略工作区状态文件（这是导致频繁提交的元凶）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 可选：如果你想忽略缓存
+.obsidian/cache/
