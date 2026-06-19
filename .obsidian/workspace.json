@@ -11,10 +11,13 @@
             "id": "736a8dacda8b2afd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -136,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -176,12 +180,12 @@
   },
   "active": "736a8dacda8b2afd",
   "lastOpenFiles": [
+    "未命名.base",
     "Java/八股.md",
     "人生/思考.md",
     "前端/杂项.md",
     "未命名.md",
     "未命名 1.base",
-    "未命名.base",
     "Java/JUC.md",
     "Java/项目描述.md",
     "Java/设计模式.md",
