@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "cbf49e1366881816",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e96500434b5ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736a8dacda8b2afd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb9418c39416b960",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f2b3a108189d72e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38b861e0bfd4a59b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ff4c09770b88b5de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c2dee8273126d656",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "d268fd918893c9f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "005c98e70d7056a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ddce1d442340a47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ac8bb17ca4823b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "03ca436e7c298982",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7ca234f046b73240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "8d786b854a578a68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "736a8dacda8b2afd",
+  "lastOpenFiles": [
+    "Java/八股.md",
+    "人生/思考.md",
+    "前端/杂项.md",
+    "未命名.md",
+    "未命名 1.base",
+    "未命名.base",
+    "Java/JUC.md",
+    "Java/项目描述.md",
+    "Java/设计模式.md",
+    "Java/附加问题.md",
+    "Java/待梳理.md",
+    "Java/MySQL/MySQL复盘笔记.md",
+    "Java/MySQL/2. 索引核心原理与实战优化/2.3 索引失效场景与调优/2.3.1 常见索引失效场景深度分析.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1.2 SELECT 语句的完整执行周期.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1 执行流程与逻辑分层 MOC.md",
+    "未命名 4.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "Pasted image 20250715112055.png",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "2026-05-30.md",
+    "Java/MySQL/3. 事务隔离与MVCC实现/3.1 隔离级别与MVCC概述/3.1.1 MySQL 四大隔离级别与 MVCC 的关系.md",
+    "Java/MySQL/大纲.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2 InnoDB 行格式与物理布局 MOC.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 变长字段（VARCHAR）的存储极限与行溢出.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 行溢出（Overflow）机制.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1.1 Server 层与存储引擎层的解耦设计.md",
+    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.1 COMPACT 行格式的内存布局.md",
+    "Java/MySQL/3. 事务隔离与 MVCC 实现/3.1 事务的 ACID 特性与底层支撑/3.1 事务的 ACID 特性与底层支撑 MOC.md",
+    "Java/MySQL/3. 事务隔离与 MVCC 实现/3.1 事务的 ACID 特性与底层支撑/3.1.1 ACID 特性的定义与边界.md",
+    "Java/MySQL/3. 事务隔离与 MVCC 实现/3.3 MVCC（多版本并发控制）底层机制/3.3.3 幻读在 RR 级别下的解决与遗留问题.md",
+    "Java/MySQL/3. 事务隔离与 MVCC 实现/3.3 MVCC（多版本并发控制）底层机制/3.3.1 Read View 的组成与可见性规则.md",
+    "Java/MySQL/6. 高可用架构与主从复制/6.2 高可用架构设计与实战",
+    "Java/MySQL/6. 高可用架构与主从复制/6.1 主从复制的原理与架构",
+    "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收",
+    "Java/MySQL/5. 日志系统/5.1 Redo Log 与 WAL 机制",
+    "Java/MySQL/4. 锁篇/4.2 InnoDB 锁算法"
+  ]
+}
