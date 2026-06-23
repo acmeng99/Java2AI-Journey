@@ -33,7 +33,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agent/LLM工具调用.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +60,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "LLM工具调用 的关系图"
+              "title": "关系图谱"
             }
           }
         ]
@@ -155,12 +154,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent/LLM工具调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LLM工具调用 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -184,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent/LLM工具调用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LLM工具调用 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -208,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Agent/LLM工具调用.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -235,10 +230,82 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "27277825fe77d73a",
+  "floating": {
+    "id": "95e9ccf7cc39e484",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f112b61be6246c08",
+        "type": "window",
+        "children": [
+          {
+            "id": "d78350b8c141d691",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ed260839faca3fcb",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/zsviczian/excalibrain",
+                    "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 16,
+        "width": 1024,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "39e92375652dc110",
+        "type": "window",
+        "children": [
+          {
+            "id": "ba18fa4d5f511281",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "037e542d0d56380a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/zsviczian/excalibrain",
+                    "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 16,
+        "width": 1024,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "037e542d0d56380a",
   "lastOpenFiles": [
-    "Agent/planner.md",
     "Agent/LLM工具调用.md",
+    "Agent/planner.md",
     "测试新笔记.md",
     "Agent/LLM工具调yong.md",
     "未命名.base",
