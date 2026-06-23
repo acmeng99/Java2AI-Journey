@@ -1,8 +1,7 @@
 
-# Function-Calling[[Agent/LLM工具调用|LLM工具调用]]
+# Function Calling[[Agent/LLM工具调用|LLM工具调]]
 
-## 是什么  [[Agent/LLM工具调用#Function-Calling|LLM工具调用]]
-
+## 是什么
 
 Function Calling 本质上是模型与代码之间的**标准化接口**。
 它的核心在于利用 **JSON Schema**（特别是 description 字段）让模型理解工具能力。当模型决定调用时，会通过 `finish_reason` 明确告知，并输出标准的 JSON 指令。
