@@ -237,10 +237,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d683aebc4b3dff71",
+  "active": "27277825fe77d73a",
   "lastOpenFiles": [
-    "Agent/LLM工具调yong.md",
+    "测试新笔记.md",
     "Agent/LLM工具调用.md",
+    "Agent/LLM工具调yong.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.canvas",
@@ -273,7 +274,6 @@
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 变长字段（VARCHAR）的存储极限与行溢出.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 行溢出（Overflow）机制.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1.1 Server 层与存储引擎层的解耦设计.md",
-    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.1 COMPACT 行格式的内存布局.md",
     "Java/MySQL/6. 高可用架构与主从复制/6.2 高可用架构设计与实战",
     "Java/MySQL/6. 高可用架构与主从复制/6.1 主从复制的原理与架构",
     "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收",

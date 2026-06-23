@@ -1,5 +1,5 @@
 
-# Function Calling[[Agent/LLM工具调用|LL]]
+# Function Calling[[]]
 
 ## 是什么
 
@@ -12,9 +12,5 @@ Function Calling 本质上是模型与代码之间的**标准化接口**。
 - LLM输出随机的自然语言说明我要调用哪个工具，程序只能用if/else来进行模糊匹配。
 有了之后：
 - LLM通过Function Calling 直接输出结构化的json，程序只需要按格式解析即可。
-
-
-
-
 
 
