@@ -20,16 +20,16 @@
               "icon": "lucide-file",
               "title": "LLM工具调用"
             },
-            "group": "fe64ec5a2d34927c"
+            "group": "82e52de3e6eb6784"
           }
         ]
       },
       {
-        "id": "bd171f0b5006705a",
+        "id": "79b2b4db3ed334b8",
         "type": "tabs",
         "children": [
           {
-            "id": "bdabeb0cdcce2915",
+            "id": "d683aebc4b3dff71",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -64,7 +64,7 @@
               "icon": "lucide-git-fork",
               "title": "LLM工具调用 的关系图"
             },
-            "group": "fe64ec5a2d34927c"
+            "group": "82e52de3e6eb6784"
           }
         ]
       }
@@ -237,7 +237,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bdabeb0cdcce2915",
+  "active": "27277825fe77d73a",
   "lastOpenFiles": [
     "Agent/LLM工具调用.md",
     "未命名.base",
