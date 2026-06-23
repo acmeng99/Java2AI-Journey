@@ -15,7 +15,7 @@
               "state": {
                 "file": "Agent/LLM工具调用.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -67,7 +67,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.9655560456566685,
+                  "scale": 1.4019828977760964,
                   "close": false
                 }
               },
