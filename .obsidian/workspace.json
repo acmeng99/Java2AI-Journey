@@ -30,31 +30,31 @@
               "icon": "lucide-file",
               "title": "LLM工具调用"
             },
-            "group": "536df214abf6cf0a"
+            "group": "431a491c84e9a6c3"
           }
         ]
       },
       {
-        "id": "23440bfef3f87faa",
+        "id": "62a8db5c8a80be59",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8394f820b3aef7",
+            "id": "6618abf03e0d06b3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "file": "Agent/LLM工具调用.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
@@ -67,14 +67,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977760964,
+                  "scale": 1,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "LLM工具调用 的关系图"
             },
-            "group": "536df214abf6cf0a"
+            "group": "431a491c84e9a6c3"
           }
         ]
       }
@@ -247,7 +247,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2a8394f820b3aef7",
+  "active": "6618abf03e0d06b3",
   "lastOpenFiles": [
     "未命名.base",
     "未命名 1.base",
