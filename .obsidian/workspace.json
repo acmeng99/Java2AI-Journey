@@ -19,31 +19,46 @@
               },
               "icon": "lucide-file",
               "title": "LLM工具调用"
+            }
+          },
+          {
+            "id": "1974ed96b080ca27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent/planner.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "planner"
             },
-            "group": "82e52de3e6eb6784"
+            "group": "69c08f51b9587727"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "79b2b4db3ed334b8",
+        "id": "0062f2b0b192ff90",
         "type": "tabs",
         "children": [
           {
-            "id": "d683aebc4b3dff71",
+            "id": "c10e6737682a946b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Agent/LLM工具调用.md",
+                "file": "Agent/planner.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -62,9 +77,9 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "LLM工具调用 的关系图"
+              "title": "planner 的关系图"
             },
-            "group": "82e52de3e6eb6784"
+            "group": "69c08f51b9587727"
           }
         ]
       }
@@ -98,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Function",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,13 +134,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "d268fd918893c9f4",
@@ -159,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agent/LLM工具调用.md",
+                "file": "Agent/planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LLM工具调用 的出链列表"
+              "title": "planner 的出链列表"
             }
           },
           {
@@ -188,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent/LLM工具调用.md",
+                "file": "Agent/planner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LLM工具调用 的大纲"
+              "title": "planner 的大纲"
             }
           },
           {
@@ -213,7 +226,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Agent/LLM工具调用.md"
+                "file": "Agent/planner.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -239,10 +252,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "27277825fe77d73a",
+  "active": "c10e6737682a946b",
   "lastOpenFiles": [
-    "测试新笔记.md",
     "Agent/LLM工具调用.md",
+    "Agent/planner.md",
+    "测试新笔记.md",
     "Agent/LLM工具调yong.md",
     "未命名.base",
     "未命名 1.base",
@@ -275,7 +289,6 @@
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2 InnoDB 行格式与物理布局 MOC.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 变长字段（VARCHAR）的存储极限与行溢出.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 行溢出（Overflow）机制.md",
-    "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1.1 Server 层与存储引擎层的解耦设计.md",
     "Java/MySQL/6. 高可用架构与主从复制/6.2 高可用架构设计与实战",
     "Java/MySQL/6. 高可用架构与主从复制/6.1 主从复制的原理与架构",
     "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收",
