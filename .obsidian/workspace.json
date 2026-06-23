@@ -36,7 +36,7 @@
               "state": {
                 "file": "Agent/LLM工具调用.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
