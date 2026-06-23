@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+                "file": "Agent/LLM工具调用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drawing 2026-06-23 15.48.29.excalidraw"
+              "title": "LLM工具调用"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+                "file": "Agent/LLM工具调用.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2026-06-23 15.48.29.excalidraw 的关系图"
+              "title": "LLM工具调用 的关系图"
             }
           }
         ]
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+                "file": "Agent/LLM工具调用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-06-23 15.48.29.excalidraw 的大纲"
+              "title": "LLM工具调用 的大纲"
             }
           },
           {
@@ -236,10 +236,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "27277825fe77d73a",
+  "active": "38b861e0bfd4a59b",
   "lastOpenFiles": [
-    "Agent/LLM工具调用.md",
     "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+    "Agent/LLM工具调用.md",
     "Excalidraw",
     "Agent/planner.md",
     "测试新笔记.md",
