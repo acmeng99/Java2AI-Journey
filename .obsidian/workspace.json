@@ -29,7 +29,52 @@
               },
               "icon": "lucide-file",
               "title": "LLM工具调用"
-            }
+            },
+            "group": "4409c7fd7c15aa2e"
+          }
+        ]
+      },
+      {
+        "id": "47658cf8ddec5ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7db8017211783b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Agent/LLM工具调用.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "LLM工具调用 的关系图"
+            },
+            "group": "4409c7fd7c15aa2e"
           }
         ]
       }
@@ -169,6 +214,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1ca2c10e15b6a34a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Agent/LLM工具调用.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
           }
         ],
         "currentTab": 3
@@ -190,7 +247,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7ca234f046b73240",
+  "active": "b7db8017211783b8",
   "lastOpenFiles": [
     "未命名.base",
     "未命名 1.base",
