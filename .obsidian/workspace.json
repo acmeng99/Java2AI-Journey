@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "LLM工具调用"
-            }
+            },
+            "group": "460466cea7b08bba"
+          }
+        ]
+      },
+      {
+        "id": "8b8ad2176f9749bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e67c5736808d1a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Agent/LLM工具调用.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977760975,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "LLM工具调用 的关系图"
+            },
+            "group": "460466cea7b08bba"
           }
         ]
       }
@@ -112,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agent/LLM工具调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "LLM工具调用 的出链列表"
             }
           },
           {
@@ -155,8 +201,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -179,14 +225,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "736a8dacda8b2afd",
+  "active": "15e67c5736808d1a",
   "lastOpenFiles": [
+    "未命名 1.base",
     "未命名.base",
-    "README.md",
     "Agent/LLM工具调用.md",
+    "README.md",
     "Agent/LLM工具调用.md.md",
     "未命名 1.md",
-    "未命名 1.base",
     "LICENSE.md",
     "Agent",
     "Java/八股.md",
