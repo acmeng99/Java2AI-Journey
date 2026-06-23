@@ -6,6 +6,7 @@
       {
         "id": "e7e96500434b5ac3",
         "type": "tabs",
+        "dimension": 69.86899563318778,
         "children": [
           {
             "id": "736a8dacda8b2afd",
@@ -15,58 +16,88 @@
               "state": {
                 "file": "Agent/LLM工具调用.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "LLM工具调用"
-            },
-            "group": "460466cea7b08bba"
+            }
           }
         ]
       },
       {
-        "id": "8b8ad2176f9749bf",
-        "type": "tabs",
+        "id": "11aeab8b3c3ac49c",
+        "type": "split",
+        "dimension": 30.13100436681223,
         "children": [
           {
-            "id": "15e67c5736808d1a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Agent/LLM工具调用.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977760975,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "LLM工具调用 的关系图"
-            },
-            "group": "460466cea7b08bba"
+            "id": "0ce1e9bfd86fa613",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6f6f39e849ee790",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agent/LLM工具调用.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "LLM工具调用"
+                },
+                "group": "119c767ea8e07750"
+              }
+            ]
+          },
+          {
+            "id": "be7a1d0a89ab668a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "05acb672a7380b31",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Agent/LLM工具调用.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "LLM工具调用 的反向链接列表"
+                },
+                "group": "119c767ea8e07750"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -123,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "d268fd918893c9f4",
@@ -206,11 +238,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +258,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "15e67c5736808d1a",
+  "active": "05acb672a7380b31",
   "lastOpenFiles": [
-    "未命名 1.base",
     "未命名.base",
-    "Agent/LLM工具调用.md",
+    "未命名 1.base",
+    "未命名.canvas",
     "README.md",
+    "未命名 2.base",
+    "Agent/LLM工具调用.md",
     "Agent/LLM工具调用.md.md",
     "未命名 1.md",
     "LICENSE.md",
@@ -249,9 +284,7 @@
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.1 执行流程与逻辑分层/1.1 执行流程与逻辑分层 MOC.md",
     "未命名 4.base",
     "未命名 3.base",
-    "未命名 2.base",
     "Pasted image 20250715112055.png",
-    "未命名.canvas",
     "未命名 1.canvas",
     "2026-05-30.md",
     "Java/MySQL/3. 事务隔离与MVCC实现/3.1 隔离级别与MVCC概述/3.1.1 MySQL 四大隔离级别与 MVCC 的关系.md",
