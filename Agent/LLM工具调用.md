@@ -1,5 +1,5 @@
 
-# Function-Calling
+# Function-Calling[[Agent/LLM工具调用|LLM工具调用]]
 
 ## 是什么  [[Agent/LLM工具调用#Function-Calling|LLM工具调用]]
 
