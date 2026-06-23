@@ -11,14 +11,12 @@
             "id": "27277825fe77d73a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Agent/LLM工具调用.md",
-                "mode": "source",
-                "source": true
+                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "LLM工具调用"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-23 15.48.29.excalidraw"
             }
           }
         ]
@@ -33,15 +31,16 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -60,7 +59,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Drawing 2026-06-23 15.48.29.excalidraw 的关系图"
             }
           }
         ]
@@ -154,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agent/LLM工具调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "LLM工具调用 的出链列表"
             }
           },
           {
@@ -182,12 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2026-06-23 15.48.29.excalidraw 的大纲"
             }
           },
           {
@@ -205,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Agent/LLM工具调用.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -219,6 +222,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -230,81 +234,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "95e9ccf7cc39e484",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f112b61be6246c08",
-        "type": "window",
-        "children": [
-          {
-            "id": "d78350b8c141d691",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ed260839faca3fcb",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/zsviczian/excalibrain",
-                    "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 16,
-        "width": 1024,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "39e92375652dc110",
-        "type": "window",
-        "children": [
-          {
-            "id": "ba18fa4d5f511281",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "037e542d0d56380a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/zsviczian/excalibrain",
-                    "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 16,
-        "width": 1024,
-        "height": 801,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "037e542d0d56380a",
+  "active": "27277825fe77d73a",
   "lastOpenFiles": [
     "Agent/LLM工具调用.md",
+    "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+    "Excalidraw",
     "Agent/planner.md",
     "测试新笔记.md",
     "Agent/LLM工具调yong.md",
@@ -338,10 +272,8 @@
     "Java/MySQL/大纲.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2 InnoDB 行格式与物理布局 MOC.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 变长字段（VARCHAR）的存储极限与行溢出.md",
-    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 行溢出（Overflow）机制.md",
     "Java/MySQL/6. 高可用架构与主从复制/6.2 高可用架构设计与实战",
     "Java/MySQL/6. 高可用架构与主从复制/6.1 主从复制的原理与架构",
-    "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收",
-    "Java/MySQL/5. 日志系统/5.1 Redo Log 与 WAL 机制"
+    "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收"
   ]
 }
