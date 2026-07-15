@@ -22,49 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0062f2b0b192ff90",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c10e6737682a946b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Agent/LLM工具调用.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "LLM工具调用 的关系图"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -236,18 +193,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "38b861e0bfd4a59b",
+  "active": "27277825fe77d73a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
+    "README.md",
+    "未命名.base",
     "Agent/LLM工具调用.md",
+    "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
     "Excalidraw",
     "Agent/planner.md",
     "测试新笔记.md",
     "Agent/LLM工具调yong.md",
-    "未命名.base",
     "未命名 1.base",
     "未命名.canvas",
-    "README.md",
     "未命名 2.base",
     "Agent/LLM工具调用.md.md",
     "未命名 1.md",
@@ -273,7 +230,6 @@
     "Java/MySQL/3. 事务隔离与MVCC实现/3.1 隔离级别与MVCC概述/3.1.1 MySQL 四大隔离级别与 MVCC 的关系.md",
     "Java/MySQL/大纲.md",
     "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2 InnoDB 行格式与物理布局 MOC.md",
-    "Java/MySQL/1. MySQL 基础架构与底层存储/1.2 InnoDB 行格式与物理布局/1.2.2 变长字段（VARCHAR）的存储极限与行溢出.md",
     "Java/MySQL/6. 高可用架构与主从复制/6.2 高可用架构设计与实战",
     "Java/MySQL/6. 高可用架构与主从复制/6.1 主从复制的原理与架构",
     "Java/MySQL/5. 日志系统/5.2 Undo Log 的物理存储与回收"
