@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent/LLM工具调用.md",
+                "file": "计划安排/计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM工具调用"
+              "title": "计划"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agent/LLM工具调用.md",
+                "file": "计划安排/计划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LLM工具调用 的大纲"
+              "title": "计划 的大纲"
             }
           },
           {
@@ -210,8 +210,8 @@
   },
   "active": "43e18a3e497d81e7",
   "lastOpenFiles": [
-    "README.md",
     "Agent/LLM工具调用.md",
+    "README.md",
     "计划安排/计划.md",
     "计划安排",
     "未命名.base",
