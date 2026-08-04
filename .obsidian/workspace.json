@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计划安排/计划.md",
+                "file": "Agent/LLM工具调用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计划"
+              "title": "LLM工具调用"
             }
           }
         ],
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计划安排/计划.md",
+                "file": "Agent/LLM工具调用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,9 +212,9 @@
   },
   "active": "43e18a3e497d81e7",
   "lastOpenFiles": [
+    "计划安排/计划.md",
     "Agent/LLM工具调用.md",
     "README.md",
-    "计划安排/计划.md",
     "计划安排",
     "未命名.base",
     "Excalidraw/Drawing 2026-06-23 15.48.29.excalidraw.md",
